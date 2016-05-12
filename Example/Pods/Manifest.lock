@@ -27,7 +27,7 @@ SPEC CHECKSUMS:
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Expecta+Snapshots: c343f410c7a6392f3e22e78f94c44b6c0749a516
   FBSnapshotTestCase: 366ecd378511d7716c79991cd8067d1eed23578d
-  podTestLibrary: bbe5d9f054b1bc59096ac9cbbe8341032f5ef50c
+  podTestLibrary: 70f1b35de490e03e260a19fbf64e9534a5aa54bc
   Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
 
 COCOAPODS: 0.39.0

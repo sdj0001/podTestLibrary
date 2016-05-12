@@ -1,19 +1,19 @@
 {
   "name": "podTestLibrary",
   "version": "0.1.0",
-  "summary": "A short description of podTestLibrary.",
+  "summary": "Just For Test",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/podTestLibrary",
+  "homepage": "https://github.com/sdj0001/podTestLibrary",
   "license": "MIT",
   "authors": {
     "spoon": "448380700@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/podTestLibrary.git",
+    "git": "https://github.com/sdj0001/podTestLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "7.0"
   },
   "source_files": "podTestLibrary/Classes/**/*"
 }
